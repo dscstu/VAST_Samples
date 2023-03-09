@@ -5,7 +5,7 @@
       <Error><![CDATA[https://example.com/error]]></Error>
       <Impression id="Impression-ID"><![CDATA[https://example.com/track/impression]]></Impression>
       <VASTAdTagURI>
-        <![CDATA[https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/master/VAST%204.2%20Samples/Inline_Companion_Tag-test.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/dscstu/VAST_Samples/master/VAST%204.2%20Samples/Inline_Companion_Tag-test.xml]]>
       </VASTAdTagURI>
     </Wrapper>
   </Ad>
